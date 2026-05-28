@@ -1,1 +1,1 @@
-
+chmod +x goodbye.sh
